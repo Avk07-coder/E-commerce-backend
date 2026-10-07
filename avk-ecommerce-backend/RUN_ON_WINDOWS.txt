@@ -1,0 +1,7 @@
+1. Install JDK 17+ and MySQL.
+2. Open this folder in IntelliJ IDEA.
+3. Make sure Maven is imported from pom.xml.
+4. In application.properties, set your MySQL username/password.
+5. Run EcommerceApplication.java.
+6. Open http://localhost:8080
+7. Use Postman to test the REST APIs. See README.md for all endpoints.
